@@ -1,6 +1,6 @@
-public class FarmHouse extends BasePizza{
-   @Override
-    public int cost(){
+public class FarmHouse extends BasePizza {
+    @Override
+    public int cost() {
         return 100;
     }
 }
